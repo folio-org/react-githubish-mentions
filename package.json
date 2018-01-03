@@ -1,6 +1,6 @@
 {
-  "name": "react-githubish-mentions",
-  "version": "1.2.0",
+  "name": "@folio/react-githubish-mentions",
+  "version": "1.2.1",
   "description": "at mentions component kinda like GitHub's. But made in react.",
   "main": "./lib/index.js",
   "scripts": {
